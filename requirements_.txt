@@ -1,9 +1,0 @@
-chainlit
-notebook
-ipywidgets
-tqdm
-python-dotenv
-openai
-langchain-google-genai
-
--e .
